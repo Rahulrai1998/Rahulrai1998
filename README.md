@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul Kumar
-- 👀 I’m interested in all the Technologies espescially in WEB , AI/ML , IOT and Android
+- 👀 I’m interested in all the Technologies especially in WEB , AI/ML , IOT and Android
 - 🌱 I’m currently learning DSA and WEBDev
 - 📫 You can reach me through LinkedIn - linkedin.com/in/rahul-kumar-05695a194
 
