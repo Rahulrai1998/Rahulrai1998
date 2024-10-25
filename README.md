@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Kumar
-- 👀 I’m interested in all the Technologies especially in WEB , AI/ML , IOT and Android
-- 🌱 I’m currently learning DSA and WEBDev
-- 📫 You can reach me through LinkedIn - linkedin.com/in/rahul-kumar-05695a194
+- 👀 Working as a Software Engineer
+- 🌱 Proficient in Frontend Techs like React.js
+- 📫 You can reach me through LinkedIn - linkedin.com/in/rahul-kumar-patna
 
 
 
