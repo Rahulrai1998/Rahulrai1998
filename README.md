@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend Projects<br>🌱 I’m currently learning MERN stack
+🔭 Learning....
 
 
 ## 🌐 Socials:
